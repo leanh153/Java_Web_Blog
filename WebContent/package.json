@@ -1,0 +1,13 @@
+{
+  "name": "JavaWeb321x-Project4",
+  "version": "1.0.0",
+  "description": "web blog",
+  "main": "posts.jsp",
+  "author": "leanh",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "4.3.0",
+    "jquery": "3.4.1",
+    "popper.js": "1.14.7"
+  }
+}
